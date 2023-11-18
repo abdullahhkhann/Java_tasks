@@ -1,5 +1,5 @@
-# codealpha_tasks
-Repo for Code Alpha Java Tasks
+# Tasks
+Repo for some tasks  
 
 ## Task #1
 
